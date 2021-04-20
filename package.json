@@ -1,0 +1,25 @@
+{
+  "name": "script-cypress-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:headless:chrome": "cypress run --headless --browser chrome",
+    "cypress:open": "cypress open"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squash14/script-cypress-template.git"
+  },
+  "keywords": [],
+  "author": "Rafael Torres dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squash14/script-cypress-template/issues"
+  },
+  "homepage": "https://github.com/Squash14/script-cypress-template#readme",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}

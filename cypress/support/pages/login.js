@@ -1,4 +1,4 @@
-import Json from '../../../cypress.json'
+import Json from '../../configurations/development.json'
 
 class Login {
 

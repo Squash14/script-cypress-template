@@ -1,9 +1,3 @@
 {   
-    "defaultCommandTimeout": 10000,
-    "baseUrl": "https://cwi.com.br/login/",
-    "urlProd":"",
-    "urlDev":"",
-    "urlQA": "",
-    "email": "gabriel.fernando@gmail.com",
-    "pass": "Senha94030"
+    "defaultCommandTimeout": 10000
 }
